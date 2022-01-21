@@ -1,27 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text",
-        "id":1
+       "title":"Hello Kat",
+       "text":"working a little backwards but enjoying myself",
+       "id":1
     },
     {
-        "title":"Test Title",
-        "text":"Test text",
-        "id":2
+       "title":"Study JS",
+       "text":"Get an example through leetcode and just practice practice practice",
+       "id":2
     },
     {
-        "title":"Test Title",
-        "text":"Test text",
-        "id":3
-    },
-    {
-        "title":"Test Title",
-        "text":"Test text",
-        "id":4
-    },
-    {
-        "title":"Test Title",
-        "text":"Test text",
-        "id":5
-    },
-]
+       "title":"Study ORM",
+       "text":"it's confusing don't give up",
+       "id":3
+    }
+ ]
