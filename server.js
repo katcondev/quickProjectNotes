@@ -22,7 +22,6 @@ app.get("/notes", (req, res) => {
 });
 
 // routes to api
-
 app.post("/api/notes", (req, res) => {
     fs.readFile(__dirname + "/db/db.json", 'utf8', (error, notes) => {
         if (error) {
@@ -96,7 +95,7 @@ app.put("/api/notes/:id", (req, res) => {
   });
 });
 
-
+//set application listening port
 
 app.listen(PORT, () => {
   console.log(`API server now on port ${PORT}!`);
