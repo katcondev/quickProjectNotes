@@ -5,7 +5,7 @@
 ## Description
 This is a website application on express that helps a user keep track of their notes. It's just a different way.
 
-![images](assets/images/screenshot.png)
+![images](public/assets/images/screenshot.png)
 
 ## Table of Contents
 - [Description](#description)
