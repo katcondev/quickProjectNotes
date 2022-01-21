@@ -4,6 +4,9 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
 This is a website application on express that helps a user keep track of their notes. It's just a different way.
+
+![images](assets/images/screenshot.png)
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
