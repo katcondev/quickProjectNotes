@@ -5,6 +5,14 @@ body {
   padding: 0;
 }
 
+.bg-dark {
+  background-color: #7d83b7 !important;
+}
+
+.btn-primary {
+  background-color: #2e34fc;
+  border-color: #2e34fc;
+}
 .save-note {
   display: none;
 }
