@@ -21,7 +21,7 @@ This is for students and profesionals to stay organized.
 <br />
 This application is covered by the MIT license. 
 ## Contributing
-Kat Contreras
+Xander Rapstine, John McCambridge, and Kat Contreras.
 ## Tests
 Not right now.
 ## Questions
@@ -30,4 +30,3 @@ Send me an email to kat.contreras@gmail.com with your questions. <br />
 :octocat: Find me on GitHub: [katcontrerasdev](https://github.com/katcontrerasdev)<br />
 <br />
 Email me with any questions: kat.contreras@gmail.com<br /><br />
-  
